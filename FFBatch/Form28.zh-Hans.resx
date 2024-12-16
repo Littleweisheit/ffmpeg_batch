@@ -125,7 +125,7 @@
     <value>55, 13</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>作物大小</value>
+    <value>裁剪尺寸</value>
   </data>
   <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
     <value>478, 28</value>
